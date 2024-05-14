@@ -1,2 +1,3 @@
 # GitTest
-My Git Repo with Eclipse
+My Git Repo for trying out
+
